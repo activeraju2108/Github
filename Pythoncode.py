@@ -1,4 +1,4 @@
-li = [3,6,7,8,15]
+li = [3,6,7,8,15,1,2,3,4,5,6]
 
 #adding comments here
 for x in li:
