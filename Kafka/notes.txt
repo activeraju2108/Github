@@ -1,0 +1,9 @@
+When ever we run producer/Consumer in Kafka
+
+We requires below libraries
+
+kafka
+kafka-python
+pyspark
+spark
+faker
